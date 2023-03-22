@@ -7,5 +7,6 @@
 
 </p>
 # Note Video
+<p>
 https://user-images.githubusercontent.com/118950801/226863842-a7918938-bf69-4a60-a6c8-99a6c850d8c4.mp4
-
+</p>
